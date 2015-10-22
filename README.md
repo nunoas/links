@@ -14,6 +14,7 @@
 
   * [Redux Home](https://github.com/rackt/redux)
   * [Redux Home](http://redux.js.org/)
+  * [Redux Video](https://www.youtube.com/watch?v=xsSnOQynTHs) _Dan Abramov presents Redux in a simple example_
 
 ## Javascript
 
@@ -23,6 +24,10 @@
 ###Javascript
 
   * [Standart](https://github.com/feross/standard) _Enforce javascript rules_
+
+
+## Games
+  * [Monument Valey](https://www.youtube.com/watch?v=z-dqzxYAyE0) _Secrets Behind the Success of Monument Valey_
 
 	
 
