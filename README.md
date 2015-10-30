@@ -15,5 +15,6 @@
   * [Redux Home](https://github.com/rackt/redux)
   * [Redux Home](http://redux.js.org/)
   * [Redux Video](https://www.youtube.com/watch?v=xsSnOQynTHs) _Dan Abramov presents Redux in a simple example_
-
-
+  * [Redux Bootstrap Project](https://github.com/erikras/react-redux-universal-hot-example)
+  * [Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) _Full stack redux tutorial_
+  * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial) _Another nice Redux Tutorial_
