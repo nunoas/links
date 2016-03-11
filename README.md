@@ -18,3 +18,8 @@
   * [Redux Bootstrap Project](https://github.com/erikras/react-redux-universal-hot-example)
   * [Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) _Full stack redux tutorial_
   * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial) _Another nice Redux Tutorial_
+
+## MSMQ
+
+  * [Message Storage](https://technet.microsoft.com/en-us/library/cc785060(v=ws.10).aspx)
+  * [Storage Folder Files](https://technet.microsoft.com/en-us/library/cc785060(v=ws.10).aspx)
